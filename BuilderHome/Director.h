@@ -4,7 +4,7 @@
 #include "Car.h"
 
 class Shop
-{//test
+{
 public:
 	Shop(Factory* builder) :
 		builder(builder)

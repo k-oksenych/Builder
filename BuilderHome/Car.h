@@ -1,7 +1,7 @@
 #pragma once
 
 class Car
-{//test
+{
 protected:
 	char* name;
 	char* body;

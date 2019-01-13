@@ -2,7 +2,7 @@
 #include "Car.h"
 
 class Factory
-{//test
+{
 public:
 	virtual void BuildBody() = 0;
 	virtual void BuildEngine() = 0;
